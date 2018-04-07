@@ -1,0 +1,25 @@
+{
+  "name": "explicador",
+  "version": "1.0.0",
+  "description": "Estrutura de design do explicador",
+  "main": "explicador.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Explicador/explicador-pacotes.git"
+  },
+  "keywords": [
+    "Pacote",
+    "Css",
+    "Javascript",
+    "Interface"
+  ],
+  "author": "José Seie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Explicador/explicador-pacotes/issues"
+  },
+  "homepage": "https://github.com/Explicador/explicador-pacotes#readme"
+}
